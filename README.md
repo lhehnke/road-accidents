@@ -1,5 +1,5 @@
 # road-accidents
-Scripts for wrangling, geocoding, analyzing, and mapping Australian road accident data
+Script for wrangling, geocoding, analyzing, and mapping Australian road accident data
 
 ## Description: 
 
