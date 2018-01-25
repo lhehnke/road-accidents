@@ -3,6 +3,8 @@ Script for wrangling, geocoding, analyzing, and mapping Australian road accident
 
 ## Description: 
 
+Corresponding blog post: https://lhehnke.github.io/notes/2018/01/23/road-accidents-south-australia 
+
 The script covers
 
 * downloading and cleaning data on road crashes in South Australia 
