@@ -16,3 +16,6 @@ The script covers
 
 using data provided by the South Australian Government Data Directory for the year 2016.
 
+Example plot:
+
+<p align="center"><img src="https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/road-accidents/plot2.png" width="550px" height="500px" vspace="50px"/></p>
